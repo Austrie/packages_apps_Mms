@@ -68,6 +68,8 @@ public class MessagingPreferenceActivity extends PreferenceActivity {
     public static final String ENABLE_EMOJIS = "pref_key_enable_emojis";
     public static final String FULL_TIMESTAMP           = "pref_key_mms_full_timestamp";
     public static final String ENABLE_QUICK_EMOJIS      = "pref_key_emojis_quick";
+    public static final String SIGNATURE                = "pref_key_mms_signature";
+    public static final String SIGNATURE_AUTO_APPEND    = "pref_key_mms_signature_auto_append"; 	
 
     // Menu entries
     private static final int MENU_RESTORE_DEFAULTS    = 1;
